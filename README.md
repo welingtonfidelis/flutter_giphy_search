@@ -1,16 +1,5 @@
 # flutter_giphy_search
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="417" height="945" alt="Screenshot from 2025-08-15 14-07-03" src="https://github.com/user-attachments/assets/b35f3a3f-d3d3-4c54-9289-0c5f32b4a642" />
+<img width="417" height="945" alt="Screenshot from 2025-08-15 14-07-00" src="https://github.com/user-attachments/assets/582d3012-f0d5-43dd-b40b-5bc87193b4cb" />
+<img width="417" height="945" alt="Screenshot from 2025-08-15 14-06-52" src="https://github.com/user-attachments/assets/9a32d531-00ec-4450-b931-2a1e06c84bc5" />
